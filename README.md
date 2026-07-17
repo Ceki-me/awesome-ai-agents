@@ -623,6 +623,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/camel-ai/camel">github</a> | <a href="https://github.com/camel-ai">github profile</a></p>
 </div>
 
+### Ceki MCP Server
+<div><a href="https://github.com/Ceki-me/mcp-server"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Ceki-me/mcp-server"><img src="https://img.shields.io/github/stars/Ceki-me/mcp-server?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 1 stars (Updated: 2026-07-16)</p>
+<p>🤖 AI Agents</p>
+
+<p>Ceki provides rentable real Chrome browsers for AI agents — bypass captchas, handle login flows, automate JavaScript-heavy sites, and solve 2FA. Integrates with any agent framework via MCP, LangChain, CrewAI, n8n, and custom SDKs. Pay per minute ($0.01/min), real residential IPs, crypto billing.</p>
+
+<p><a href="https://github.com/Ceki-me/mcp-server">github</a> | <a href="https://browser.ceki.me">website</a> | <a href="https://github.com/Ceki-me/python-sdk">python sdk</a> | <a href="https://github.com/Ceki-me/js-sdk">js sdk</a></p>
+</div>
+
 ### Central by Zapier
 <div><a href="https://zapier.com/blog/introducing-zapier-central-ai-bots/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
